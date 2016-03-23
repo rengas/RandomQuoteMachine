@@ -1,0 +1,22 @@
+@import url(https://fonts.googleapis.com/css?family=Fascinate+Inline);
+@import url(https://fonts.googleapis.com/css?family=Allan:700&subset=latin,latin-ext);
+body{
+  background: url("https://images.unsplash.com/photo-1432383079404-c66efb4828a3?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=ab64c4d50ba23eddc67d9228ee734039");
+
+   background-size: cover;
+}
+h1{
+ font-family: 'Fascinate Inline', cursive;
+ color: #0069A2;
+ font-size:80px;
+}
+h2{
+ font-family: 'Allan', cursive;
+ color: #0069A2;
+ font-size:60px;
+}
+h3{
+ font-family: 'Allan', cursive;
+ 
+ font-size:45px;
+}
