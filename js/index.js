@@ -16,7 +16,7 @@ $( "#getit" ).click(function() {
     },
     error: function(err) { console.log(err); },
     beforeSend: function(xhr) {
-    xhr.setRequestHeader("X-Mashape-Authorization", "5iTMW3XHVwmshZDmLOJu4ygkjBDsp1B1kr7jsnA4QgKqtMLk63"); // Enter here your Mashape key
+    xhr.setRequestHeader("X-Mashape-Authorization", ""); // Enter here your Mashape key
     }
 });
 
